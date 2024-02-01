@@ -3,8 +3,7 @@ title: "index html"
 author: "Kyle McFarren"
 date: "`r Sys.Date()`"
 output: 
-  prettydoc::html_pretty:
-    theme: cayman
+  rmdformats::material
 ---
 
 ```{r setup, include=FALSE}
